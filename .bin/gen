@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+
+echo "# Today I learned"
+echo ""
+echo "A collection of TIL capsules accumulated over the years."
+echo ""
+echo "_$(fd -t f --min-depth 2 | wc -l) TILs found_"
+echo ""
+echo "---"
+echo ""
+
+echo "## Topics"
+echo ""
+fd -t d |\
+    while read dir; do
+        echo "* [${dir^}](#${dir^}): ($(fd . ${dir}/ | wc -l)) TILs."
+    done;
+
+echo ""
+echo "---"
+
+fd -t d |\
+    while read dir; do
+        echo ""
+        echo "## ${dir^}";
+        ls ${dir} |\
+            while read til; do
+                echo "* [$(echo ${til^} | sed 's/-/ /g;s/\.md//g')](${dir}/${til})";
+            done
+        done
+
+echo "---"
+echo ""
+echo "_Idea stolen from [jbranchaud/til](https://github.com/jbranchaud/til) who stole it from [thoughtbot/til](https://github.com/thoughtbot/til)._"

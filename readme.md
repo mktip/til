@@ -26,3 +26,6 @@ _4 TILs found_
 
 ## Python
 * [Memoize function with cache](python/memoize-function-with-cache.md)
+---
+
+_Idea stolen from [jbranchaud/til](https://github.com/jbranchaud/til) who stole it from [thoughtbot/til](https://github.com/thoughtbot/til)._
