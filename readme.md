@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_4 TILs found_
+_5 TILs found_
 
 ---
 
@@ -12,6 +12,7 @@ _4 TILs found_
 * [Go](#Go): (1) TILs.
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (1) TILs.
+* [Sql](#Sql): (1) TILs.
 
 ---
 
@@ -26,6 +27,9 @@ _4 TILs found_
 
 ## Python
 * [Memoize function with cache](python/memoize-function-with-cache.md)
+
+## Sql
+* [Exists in check](sql/exists-in-check.md)
 ---
 
 _Idea stolen from [jbranchaud/til](https://github.com/jbranchaud/til) who stole it from [thoughtbot/til](https://github.com/thoughtbot/til)._
