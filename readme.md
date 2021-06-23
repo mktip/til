@@ -2,19 +2,25 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_6 TILs found_
+_11 TILs found_
 
 ---
 
 ## Topics
 
+* [Ansible](#Ansible): (2) TILs.
 * [Git](#Git): (1) TILs.
 * [Go](#Go): (1) TILs.
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
 * [Sql](#Sql): (1) TILs.
+* [Sysadmin](#Sysadmin): (3) TILs.
 
 ---
+
+## Ansible
+* [Register task output](ansible/register-task-output.md)
+* [When to run](ansible/when-to-run.md)
 
 ## Git
 * [Pre commit hook](git/pre-commit-hook.md)
@@ -31,6 +37,11 @@ _6 TILs found_
 
 ## Sql
 * [Exists in check](sql/exists-in-check.md)
+
+## Sysadmin
+* [Force refresh dns cache](sysadmin/force-refresh-dns-cache.md)
+* [List user installed packages](sysadmin/list-user-installed-packages.md)
+* [Speedup dnf](sysadmin/speedup-dnf.md)
 ---
 
 _Idea stolen from [jbranchaud/til](https://github.com/jbranchaud/til) who stole it from [thoughtbot/til](https://github.com/thoughtbot/til)._
