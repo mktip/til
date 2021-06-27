@@ -1,7 +1,7 @@
-# Convert Virtualbox box to livirt box
+# Convert Virtualbox box to libvirt box
 
 When using vagrant, sometimes the box one needs to use does not support the
-providers avaialbel on the system. In order to solve this issue, a vagrant plugin
+providers available on the system. In order to solve this issue, a vagrant plugin
 called [vagrant-mutate](https://github.com/sciurus/vagrant-mutate) was created
 which allows one to convert boxes made for a specific provider to another
 provider.

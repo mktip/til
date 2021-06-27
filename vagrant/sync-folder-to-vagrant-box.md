@@ -8,7 +8,7 @@ Rsync is a simple one and is done as follow:
 config.vm.synced_folder "."        , "/vagrant", type: "rsync"
 ```
 
-If you needed to disable the syncronization temporirally you can append `,
+If you needed to disable the synchronization temporarily you can append `,
 disabled: true` to the `sync_folder` call:
 
 ```ruby
