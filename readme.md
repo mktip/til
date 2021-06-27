@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_11 TILs found_
+_14 TILs found_
 
 ---
 
@@ -11,10 +11,12 @@ _11 TILs found_
 * [Ansible](#Ansible): (2) TILs.
 * [Git](#Git): (1) TILs.
 * [Go](#Go): (1) TILs.
+* [Nixos](#Nixos): (1) TILs.
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
 * [Sql](#Sql): (1) TILs.
 * [Sysadmin](#Sysadmin): (3) TILs.
+* [Vagrant](#Vagrant): (2) TILs.
 
 ---
 
@@ -27,6 +29,9 @@ _11 TILs found_
 
 ## Go
 * [Functional options](go/functional-options.md)
+
+## Nixos
+* [Add package to system](nixos/add-package-to-system.md)
 
 ## Photogrammetry
 * [Convert between different mesh formats](photogrammetry/convert-between-different-mesh-formats.md)
@@ -42,6 +47,10 @@ _11 TILs found_
 * [Force refresh dns cache](sysadmin/force-refresh-dns-cache.md)
 * [List user installed packages](sysadmin/list-user-installed-packages.md)
 * [Speedup dnf](sysadmin/speedup-dnf.md)
+
+## Vagrant
+* [Convert virtualbox box to libvirt box](vagrant/convert-virtualbox-box-to-libvirt-box.md)
+* [Sync folder to vagrant box](vagrant/sync-folder-to-vagrant-box.md)
 ---
 
 _Idea stolen from [jbranchaud/til](https://github.com/jbranchaud/til) who stole it from [thoughtbot/til](https://github.com/thoughtbot/til)._
