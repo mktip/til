@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_14 TILs found_
+_15 TILs found_
 
 ---
 
@@ -15,7 +15,7 @@ _14 TILs found_
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
 * [Sql](#Sql): (1) TILs.
-* [Sysadmin](#Sysadmin): (3) TILs.
+* [Sysadmin](#Sysadmin): (4) TILs.
 * [Vagrant](#Vagrant): (2) TILs.
 
 ---
@@ -45,6 +45,7 @@ _14 TILs found_
 
 ## Sysadmin
 * [Force refresh dns cache](sysadmin/force-refresh-dns-cache.md)
+* [Generate shadow compatible passwd hash](sysadmin/generate-shadow-compatible-passwd-hash.md)
 * [List user installed packages](sysadmin/list-user-installed-packages.md)
 * [Speedup dnf](sysadmin/speedup-dnf.md)
 
