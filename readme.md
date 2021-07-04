@@ -2,14 +2,14 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_18 TILs found_
+_19 TILs found_
 
 ---
 
 ## Topics
 
 * [Ansible](#Ansible): (2) TILs.
-* [Firebase](#Firebase): (1) TILs.
+* [Firebase](#Firebase): (2) TILs.
 * [Git](#Git): (1) TILs.
 * [Go](#Go): (1) TILs.
 * [Javascript](#Javascript): (1) TILs.
@@ -28,6 +28,7 @@ _18 TILs found_
 * [When to run](ansible/when-to-run.md)
 
 ## Firebase
+* [Access project storage in cloud function](firebase/access-project-storage-in-cloud-function.md)
 * [Bypass cors in cloud functions](firebase/bypass-cors-in-cloud-functions.md)
 
 ## Git
