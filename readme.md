@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_24 TILs found_
+_26 TILs found_
 
 ---
 
@@ -15,12 +15,12 @@ _24 TILs found_
 * [Go](#Go): (1) TILs.
 * [Javascript](#Javascript): (1) TILs.
 * [Nixos](#Nixos): (1) TILs.
-* [Openldap](#Openldap): (1) TILs.
+* [Openldap](#Openldap): (2) TILs.
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
 * [Sql](#Sql): (1) TILs.
 * [Sysadmin](#Sysadmin): (7) TILs.
-* [Vagrant](#Vagrant): (2) TILs.
+* [Vagrant](#Vagrant): (3) TILs.
 
 ---
 
@@ -50,6 +50,7 @@ _24 TILs found_
 
 ## Openldap
 * [Generate password](openldap/generate-password.md)
+* [Perform authorised search](openldap/perform-authorised-search.md)
 
 ## Photogrammetry
 * [Convert between different mesh formats](photogrammetry/convert-between-different-mesh-formats.md)
@@ -72,6 +73,7 @@ _24 TILs found_
 
 ## Vagrant
 * [Convert virtualbox box to libvirt box](vagrant/convert-virtualbox-box-to-libvirt-box.md)
+* [Forward port to host](vagrant/forward-port-to-host.md)
 * [Sync folder to vagrant box](vagrant/sync-folder-to-vagrant-box.md)
 ---
 
