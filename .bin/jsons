@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+
+function getCommit() {
+  git log -p $1 | head -1 | awk '{ print $2 }'
+}
+
+function getDate() {
+  git log -p $1 | head -3 | tail -1 | sed 's/Date:\s*//g'
+}
+
+function getAuthor() {
+  git log -p $1 | head -2 | tail -1 | sed 's/Author:\s*//g;s/\s<.*>$//g'
+}
+
+function getTitle() {
+  echo $(basename ${til^} .md) | sed 's/-/ /g'
+}
+
+echo "["
+fd -t d |\
+    while read dir; do
+        ls ${dir} |\
+            while read til; do
+              echo '{
+  "title":    "'$(getTitle $til)'",
+  "category": "'${dir^}'",
+  "author":   "'$(getAuthor "$dir/$til")'",
+  "date":     "'$(getDate "$dir/$til")'",
+  "commit":   "'$(getCommit "$dir/$til")'",
+  "content":  "'$(cat $dir/$til | base64 --wrap=100000)'"
+},'
+            done
+        done | tac | sed '/},/ {s//}/; :loop; n; b loop}' | tac
+echo "]"
