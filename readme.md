@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_29 TILs found_
+_30 TILs found_
 
 ---
 
@@ -11,7 +11,7 @@ _29 TILs found_
 * [Ansible](#Ansible): (2) TILs.
 * [Bash](#Bash): (3) TILs.
 * [Firebase](#Firebase): (2) TILs.
-* [Git](#Git): (2) TILs.
+* [Git](#Git): (3) TILs.
 * [Go](#Go): (1) TILs.
 * [Javascript](#Javascript): (1) TILs.
 * [Nixos](#Nixos): (1) TILs.
@@ -38,6 +38,7 @@ _29 TILs found_
 * [Bypass cors in cloud functions](firebase/bypass-cors-in-cloud-functions.md)
 
 ## Git
+* [Grep something from history](git/grep-something-from-history.md)
 * [Pre commit hook](git/pre-commit-hook.md)
 * [Remove file from repo](git/remove-file-from-repo.md)
 
