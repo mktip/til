@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_27 TILs found_
+_28 TILs found_
 
 ---
 
@@ -19,7 +19,7 @@ _27 TILs found_
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
 * [Sql](#Sql): (1) TILs.
-* [Sysadmin](#Sysadmin): (7) TILs.
+* [Sysadmin](#Sysadmin): (8) TILs.
 * [Vagrant](#Vagrant): (3) TILs.
 
 ---
@@ -71,6 +71,7 @@ _27 TILs found_
 * [List user installed packages](sysadmin/list-user-installed-packages.md)
 * [Speedup dnf](sysadmin/speedup-dnf.md)
 * [Upload src rpm to copr](sysadmin/upload-src-rpm-to-copr.md)
+* [View arp cache](sysadmin/view-arp-cache.md)
 
 ## Vagrant
 * [Convert virtualbox box to libvirt box](vagrant/convert-virtualbox-box-to-libvirt-box.md)
