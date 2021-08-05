@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_30 TILs found_
+_31 TILs found_
 
 ---
 
@@ -19,7 +19,7 @@ _30 TILs found_
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
 * [Sql](#Sql): (1) TILs.
-* [Sysadmin](#Sysadmin): (8) TILs.
+* [Sysadmin](#Sysadmin): (9) TILs.
 * [Vagrant](#Vagrant): (3) TILs.
 
 ---
@@ -67,6 +67,7 @@ _30 TILs found_
 
 ## Sysadmin
 * [Create copr project](sysadmin/create-copr-project.md)
+* [Create unix socket](sysadmin/create-unix-socket.md)
 * [Force refresh dns cache](sysadmin/force-refresh-dns-cache.md)
 * [Generate shadow compatible passwd hash](sysadmin/generate-shadow-compatible-passwd-hash.md)
 * [Get copr api keys](sysadmin/get-copr-api-keys.md)
