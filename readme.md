@@ -2,14 +2,14 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_31 TILs found_
+_32 TILs found_
 
 ---
 
 ## Topics
 
 * [Ansible](#Ansible): (2) TILs.
-* [Bash](#Bash): (3) TILs.
+* [Bash](#Bash): (4) TILs.
 * [Firebase](#Firebase): (2) TILs.
 * [Git](#Git): (3) TILs.
 * [Go](#Go): (1) TILs.
@@ -30,6 +30,7 @@ _31 TILs found_
 
 ## Bash
 * [Add clear mode for vi bash](bash/add-clear-mode-for-vi-bash.md)
+* [Check if socket file exists](bash/check-if-socket-file-exists.md)
 * [Dictionary from brace expansion](bash/dictionary-from-brace-expansion.md)
 * [Exit edit command mode](bash/exit-edit-command-mode.md)
 
