@@ -2,14 +2,14 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_34 TILs found_
+_35 TILs found_
 
 ---
 
 ## Topics
 
 * [Ansible](#Ansible): (2) TILs.
-* [Bash](#Bash): (4) TILs.
+* [Bash](#Bash): (5) TILs.
 * [Firebase](#Firebase): (2) TILs.
 * [Git](#Git): (3) TILs.
 * [Go](#Go): (1) TILs.
@@ -34,6 +34,7 @@ _34 TILs found_
 * [Check if socket file exists](bash/check-if-socket-file-exists.md)
 * [Dictionary from brace expansion](bash/dictionary-from-brace-expansion.md)
 * [Exit edit command mode](bash/exit-edit-command-mode.md)
+* [Refresh bin paths](bash/refresh-bin-paths.md)
 
 ## Firebase
 * [Access project storage in cloud function](firebase/access-project-storage-in-cloud-function.md)
