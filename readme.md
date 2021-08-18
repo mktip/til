@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_33 TILs found_
+_34 TILs found_
 
 ---
 
@@ -18,6 +18,7 @@ _33 TILs found_
 * [Openldap](#Openldap): (2) TILs.
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
+* [Redis](#Redis): (1) TILs.
 * [Sql](#Sql): (1) TILs.
 * [Sysadmin](#Sysadmin): (9) TILs.
 * [Vagrant](#Vagrant): (3) TILs.
@@ -63,6 +64,9 @@ _33 TILs found_
 ## Python
 * [Memoize function with cache](python/memoize-function-with-cache.md)
 * [Mount google drive on colab](python/mount-google-drive-on-colab.md)
+
+## Redis
+* [How lrange behaves](redis/how-lrange-behaves.md)
 
 ## Sql
 * [Exists in check](sql/exists-in-check.md)
