@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_35 TILs found_
+_36 TILs found_
 
 ---
 
@@ -13,7 +13,7 @@ _35 TILs found_
 * [Firebase](#Firebase): (2) TILs.
 * [Git](#Git): (3) TILs.
 * [Go](#Go): (1) TILs.
-* [Javascript](#Javascript): (2) TILs.
+* [Javascript](#Javascript): (3) TILs.
 * [Nixos](#Nixos): (1) TILs.
 * [Openldap](#Openldap): (2) TILs.
 * [Photogrammetry](#Photogrammetry): (1) TILs.
@@ -49,6 +49,7 @@ _35 TILs found_
 * [Functional options](go/functional-options.md)
 
 ## Javascript
+* [Await streams](javascript/await-streams.md)
 * [Convert callbacks to promises](javascript/convert-callbacks-to-promises.md)
 * [Reactivly push element to array](javascript/reactivly-push-element-to-array.md)
 
