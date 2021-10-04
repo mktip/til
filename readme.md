@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_37 TILs found_
+_38 TILs found_
 
 ---
 
@@ -10,6 +10,7 @@ _37 TILs found_
 
 * [Ansible](#Ansible): (2) TILs.
 * [Bash](#Bash): (6) TILs.
+* [Css](#Css): (1) TILs.
 * [Firebase](#Firebase): (2) TILs.
 * [Git](#Git): (3) TILs.
 * [Go](#Go): (1) TILs.
@@ -21,6 +22,7 @@ _37 TILs found_
 * [Redis](#Redis): (1) TILs.
 * [Sql](#Sql): (1) TILs.
 * [Sysadmin](#Sysadmin): (9) TILs.
+* [Typescript](#Typescript): (0) TILs.
 * [Vagrant](#Vagrant): (3) TILs.
 
 ---
@@ -36,6 +38,9 @@ _37 TILs found_
 * [Exit edit command mode](bash/exit-edit-command-mode.md)
 * [Refresh bin paths](bash/refresh-bin-paths.md)
 * [Watch with pipe](bash/watch-with-pipe.md)
+
+## Css
+* [Child outgrows flex parent](css/child-outgrows-flex-parent.md)
 
 ## Firebase
 * [Access project storage in cloud function](firebase/access-project-storage-in-cloud-function.md)
@@ -84,6 +89,8 @@ _37 TILs found_
 * [Speedup dnf](sysadmin/speedup-dnf.md)
 * [Upload src rpm to copr](sysadmin/upload-src-rpm-to-copr.md)
 * [View arp cache](sysadmin/view-arp-cache.md)
+
+## Typescript
 
 ## Vagrant
 * [Convert virtualbox box to libvirt box](vagrant/convert-virtualbox-box-to-libvirt-box.md)
