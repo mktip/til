@@ -13,6 +13,7 @@ echo "## Topics"
 echo ""
 fd -t d |\
     while read dir; do
+        dir=${dir::-1}
         echo "* [${dir^}](#${dir^}): ($(fd . ${dir}/ | wc -l)) TILs."
     done;
 
@@ -21,6 +22,7 @@ echo "---"
 
 fd -t d |\
     while read dir; do
+        dir=${dir::-1}
         echo ""
         echo "## ${dir^}";
         ls ${dir} |\
