@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_38 TILs found_
+_39 TILs found_
 
 ---
 
@@ -17,12 +17,12 @@ _38 TILs found_
 * [Javascript](#Javascript): (3) TILs.
 * [Nixos](#Nixos): (1) TILs.
 * [Openldap](#Openldap): (2) TILs.
+* [Os](#Os): (1) TILs.
 * [Photogrammetry](#Photogrammetry): (1) TILs.
 * [Python](#Python): (2) TILs.
 * [Redis](#Redis): (1) TILs.
 * [Sql](#Sql): (1) TILs.
 * [Sysadmin](#Sysadmin): (9) TILs.
-* [Typescript](#Typescript): (0) TILs.
 * [Vagrant](#Vagrant): (3) TILs.
 
 ---
@@ -66,6 +66,9 @@ _38 TILs found_
 * [Generate password](openldap/generate-password.md)
 * [Perform authorised search](openldap/perform-authorised-search.md)
 
+## Os
+* [Hijack stdout](os/hijack-stdout.md)
+
 ## Photogrammetry
 * [Convert between different mesh formats](photogrammetry/convert-between-different-mesh-formats.md)
 
@@ -89,8 +92,6 @@ _38 TILs found_
 * [Speedup dnf](sysadmin/speedup-dnf.md)
 * [Upload src rpm to copr](sysadmin/upload-src-rpm-to-copr.md)
 * [View arp cache](sysadmin/view-arp-cache.md)
-
-## Typescript
 
 ## Vagrant
 * [Convert virtualbox box to libvirt box](vagrant/convert-virtualbox-box-to-libvirt-box.md)
