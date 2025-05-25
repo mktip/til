@@ -2,7 +2,7 @@
 
 A collection of TIL capsules accumulated over the years.
 
-_39 TILs found_
+_42 TILs found_
 
 ---
 
@@ -14,6 +14,7 @@ _39 TILs found_
 * [Firebase](#Firebase): (2) TILs.
 * [Git](#Git): (3) TILs.
 * [Go](#Go): (1) TILs.
+* [Ideas](#Ideas): (3) TILs.
 * [Javascript](#Javascript): (3) TILs.
 * [Nixos](#Nixos): (1) TILs.
 * [Openldap](#Openldap): (2) TILs.
@@ -53,6 +54,11 @@ _39 TILs found_
 
 ## Go
 * [Functional options](go/functional-options.md)
+
+## Ideas
+* [A side effect of democracy](ideas/a-side-effect-of-democracy.md)
+* [The constancy of existance](ideas/the-constancy-of-existance.md)
+* [The theatrical present](ideas/the-theatrical-present.md)
 
 ## Javascript
 * [Await streams](javascript/await-streams.md)
